@@ -128,6 +128,7 @@ console.log(userTwo.getContact());
 console.log(userTwo.getQuote());
 console.log(userTwo.getWork());
 console.log(userTwo.getFriends());
+
 //object three
 var userThree = new Facebook("Uwaise", "1993-01-19", "male", ["NIE", "St. Philos"], "Mysore", 1234558800, "Hardwork beats talent when talent doesn't work hard", ["QCON", "Quality"], userTwo);
 console.log(userThree.getName());
